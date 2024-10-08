@@ -1,1 +1,1 @@
-# .github
+Bytewise Coding is a pioneering academy in Hong Kong that harnesses the power of coding to empower students with the skills they need to excel in today's rapidly evolving world. We firmly believe that coding is not just a technical skill, but an essential one for critical thinking, problem-solving, and truly excelling in society.
